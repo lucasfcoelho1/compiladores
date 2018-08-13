@@ -1,0 +1,2 @@
+flex -o exemploinicial.c exemploinicial.l 
+gcc exemploinicial.c -o exemploinicial.exe 
